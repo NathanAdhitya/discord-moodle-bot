@@ -7,6 +7,7 @@ export const config = {
       secret: 'secret',
       expiresIn: '6h',
     },
+    language: 'en',
     mongo: {
       host: 'mongodb://localhost:27017/fmdb',
     },
